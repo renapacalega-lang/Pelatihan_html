@@ -1,10 +1,10 @@
 body {
-  background-color: #8B008B;
+  background-color: #898AC4;
   font-family:Arial, sans-serif;
-  color: #191970;
+  color: #C0C9EE;
 }
 .kartu-pp {
-  width:200px;
+  width:300px;
   margin:50px auto; /jarak atas/bawah,auto menengah kiri/kanan/
   padding:20px;
   background-color:cyan;
