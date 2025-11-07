@@ -1,6 +1,6 @@
 body {
   background-color: #8B008B:
-  fony-family:Arial, sans-serif;
+  font-family:Arial, sans-serif;
   color: #191970;
 }
 .kartu-foto profil {
@@ -9,7 +9,7 @@ body {
     padding:20px;
     background-color:cyan;
     border-radius:15px;
-    box-shadow:0 4 px Spx rgba(0,0,0,0,1);
+    box-shadow:0 4px 8px rgba(0,0,0,0,1);
     text-align:center;
   }
 .kartu-foto profil img{
